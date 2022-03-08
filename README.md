@@ -25,7 +25,7 @@ AIoT Bluetooth(2.4G Hz), BLE, Mesh 无线模块/平台的搭建。
 | nRF52805  2020-06 | Cortex-M4  64MHz                | 192KB | 24KB  | 5.2        | ×      | ×           | ×                   | ×        | ×      | ×    | ×         | 不支持USB |
 | nRF52811  2019-11 | Cortex-M4  64MHz                | 192KB | 24KB  | 5.2        | ×      | √           | √                   | √        | √      | ×    | ×         | 不支持USB |
 
-
+![nRF52 Series BLE IC comparison](figures/nRF52 Series BLE IC comparison.jpg)
 
 ## nRF52805
 
